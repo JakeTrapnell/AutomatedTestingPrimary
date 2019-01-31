@@ -1,0 +1,5 @@
+com\qa\SeleniumReadWrite\Para.class
+com\qa\SeleniumReadWrite\SearchPage.class
+com\qa\SeleniumReadWrite\LandingPage.class
+com\qa\SeleniumReadWrite\Constants.class
+com\qa\SeleniumReadWrite\ExcelParaTest.class
